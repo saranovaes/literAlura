@@ -1,4 +1,4 @@
-## 🎯Desafio back-end Alura/ONE(Oracle Next Education T6) Catálogo de livros LiterAlura 
+## 🎯Desafio back-end Alura/ONE(Oracle Next Education) Catálogo de livros LiterAlura 
 
 <h2>Bem-vindo a LiterAlura!</h2> 
 O Desafio tem como objetivo fazer um catálogo de livros usando a linguagem Java.
